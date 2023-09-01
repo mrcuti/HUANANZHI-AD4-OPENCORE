@@ -10,7 +10,7 @@ Sleep/Wake OK. Two keystrokes wake up (unsolved)
 
 tested DRM on Safari - Netflix and Amazon video. Apple TV ok
 
-SM Bios Imac Pro 1,1. Put your symbios where the X on config.plist
+SM Bios Imac Pro 1,1. Put your smbios where the X on config.plist
 
 I include last Bios 22-12-8 moD for this processor 80-50-50 
 
