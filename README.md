@@ -1,6 +1,6 @@
-# huananzhi AD4 opencore
+HUANANZHI X99-AD4 V2 OPENCORE
 
-HUANANZHI X99-AD4 V2 Motherboard
+
 OpenCore 0.9.4 For macOS Sierra --- Ventura
 
 with E52696v3 processor with last modified firmware enabled in bios (turbo-boost)+
