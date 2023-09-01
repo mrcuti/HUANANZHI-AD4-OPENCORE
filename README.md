@@ -20,3 +20,5 @@ NVRAM working
 15 USB (Rear) ports: 10 USB 2.0 AND 4 USB 3.0 PLUS One internal for Bluetooth FENVI
 
 Facetime-iMessage ok
+
+If you are not using (Gpu Vega 56) remove from DeviceProperties: PciRoot(0x0)/Pci(0x3,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)  (is the undervollt)
