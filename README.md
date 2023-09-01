@@ -1,6 +1,6 @@
 # HUANANZHI-AD4-OPENCORE
 HUANANZHI X99-AD4 V2 Motherboard
-OpenCore 0.9.1
+OpenCore 0.9.4
 For macOS Sierra --- Ventura
 
 
