@@ -14,7 +14,7 @@ SM Bios Imac Pro 1,1. Put your symbios where the X on config.plist
 
 I include last Bios 22-12-8 moD for this processor 80-50-50 
 
-Elegi alcid=77 pero puedes elegir: 11 model. Realtek ALC 897 Audio
+Audio alcid=77 but you can choose 11 --- Realtek ALC 897 Audio
 
 NVRAM working
 
