@@ -1,13 +1,13 @@
 HUANANZHI X99-AD4 V2 OPENCORE
 
 
-OpenCore 0.9.4 For macOS Sierra --- Ventura
+OpenCore 0.9.4 For from Big Sur to Ventura
 
-with E52696v3 processor with last modified firmware enabled in bios (turbo-boost)+
+With E52696v3 processor with last modified firmware enabled in bios (turbo-boost)+
 
 Sleep/Wake OK. Two keystrokes wake up (unsolved)
 
-tested DRM on Safari - Netflix and Amazon video. Apple TV ok
+Tested DRM on Safari - Netflix and Amazon video. Apple TV ok
 
 SM Bios Imac Pro 1,1. Put your smbios where the X on config.plist
 
