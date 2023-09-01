@@ -11,7 +11,7 @@ Tested DRM on Safari - Netflix and Amazon video. Apple TV ok
 
 SM Bios Imac Pro 1,1. Put your smbios where the X on config.plist
 
-I include last Bios 22-12-8 moD for this processor 80-50-50 
+Include last Bios 22-12-8 MOD 80-50-50 E5-2696v3
 
 Audio alcid=77 but you can choose 11 --- Realtek ALC 897 Audio
 
@@ -21,4 +21,4 @@ NVRAM working
 
 Facetime-iMessage ok
 
-If you are not using (Gpu Vega 56) remove from DeviceProperties: PciRoot(0x0)/Pci(0x3,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)  (is the undervollt)
+If you are not using (Gpu Vega 56) remove from DeviceProperties: PciRoot(0x0)/Pci(0x3,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)  (is the undervolt)
