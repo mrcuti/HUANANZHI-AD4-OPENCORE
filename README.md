@@ -1,22 +1,22 @@
-OPENCORE 0.9.4---
+OPENCORE 0.9.4
 
-ALC 897 speaker out and mic in only----
+ALC 897 speaker out and mic in only
 
-Limit 15 rear ports 3.0 - 2.0 and bluetooth FENVI internal - Wake Up ok----
+Limit 15 rear ports 3.0 - 2.0 and bluetooth FENVI internal - Wake Up ok
 
-Safari (Netflix- Amazon video) and AppleTv----
+Safari (Netflix- Amazon video) and AppleTv
 
-Imessage and facetime e.t.c ok----
+Imessage and facetime e.t.c ok
 
 ------------------------------------------
 
-HUANANZHI AD4 V2 Mainboard---
+HUANANZHI AD4 V2 Mainboard
 
-64Gb ram REG-ECC---
+64Gb ram REG-ECC
 
-SHAPPIRE VEGA 56 8GB---
+SHAPPIRE VEGA 56 8GB
 
-XEON E52696V3---
+XEON E52696V3
 
 ------------------------------------------
 Include a last Bios mod (only for E52696V3) 80-50-50
