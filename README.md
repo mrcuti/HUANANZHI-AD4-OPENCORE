@@ -23,3 +23,5 @@ Include a last Bios mod (only for E52696V3) 80-50-50
 
 ------------------------------------------
 Create your own GenSMBIOS for (Imac Pro 1,1)
+
+For Monterey and Ventura
