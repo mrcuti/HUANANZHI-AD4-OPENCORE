@@ -1,3 +1,4 @@
+OPENCORE 0.9.4---
 ALC 897 speaker out and mic in only----
 Limit 15 rear ports 3.0 - 2.0 and bluetooth FENVI internal - Wake Up ok----
 Safari (Netflix- Amazon video) and AppleTv----
