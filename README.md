@@ -10,3 +10,5 @@ SHAPPIRE VEGA 56 8GB---
 XEON E52696V3---
 ------------------------------------------
 Include a last Bios mod (only for E52696V3) 80-50-50
+------------------------------------------
+put your GenSMBIOS for Imac pro 1,1
