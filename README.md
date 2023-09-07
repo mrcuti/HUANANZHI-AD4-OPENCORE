@@ -2,9 +2,9 @@ OPENCORE 0.9.4
 
 ALC 897 Audio
 
-Limit 15 rear ports 3.0 - 2.0 and bluetooth FENVI internal - Wake Up ok
+Limit 15 ports 3.0 - 2.0 and bluetooth FENVI internal
 
-Safari (Netflix- Amazon video) and AppleTv
+Safari (Netflix- Amazon Video) and AppleTv
 
 Imessage and facetime e.t.c ok
 
@@ -19,7 +19,7 @@ SHAPPIRE VEGA 56 8GB
 XEON E52696V3
 
 ------------------------------------------
-Include a last Bios mod (only for E52696V3) 80-50-50
+Include a last Bios moD (only for E52696V3) 80-50-50 Unlock Turbo Boost
 
 ------------------------------------------
 Create your own GenSMBIOS for (Imac-Pro 1,1)
