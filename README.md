@@ -1,6 +1,6 @@
 OPENCORE 0.9.4
 
-ALC 897 speaker out and mic in only
+ALC 897 Audio
 
 Limit 15 rear ports 3.0 - 2.0 and bluetooth FENVI internal - Wake Up ok
 
@@ -22,6 +22,6 @@ XEON E52696V3
 Include a last Bios mod (only for E52696V3) 80-50-50
 
 ------------------------------------------
-Create your own GenSMBIOS for (Imac Pro 1,1)
+Create your own GenSMBIOS for (Imac-Pro 1,1)
 
-For Monterey and Ventura
+Monterey and Ventura
