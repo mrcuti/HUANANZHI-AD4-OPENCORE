@@ -8,7 +8,7 @@ Safari (Netflix- Amazon Video) and AppleTv. Imessage and facetime e.t.c ok
 
 
 ------------------------------------------
-My spects:
+My MObo:
 
 HUANANZHI AD4 V2 Mainboard
 
