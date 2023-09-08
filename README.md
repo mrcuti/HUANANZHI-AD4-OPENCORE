@@ -2,7 +2,7 @@ OPENCORE 0.9.4
 
 ALC 897 Audio
 
-Limit 15 ports 3.0 - 2.0 and bluetooth FENVI internal
+Limit ports USB. Two ports: 3.0 and ten ports:2.0 Rear all, and one internal bluetooth FENVI
 
 Safari (Netflix- Amazon Video) and AppleTv
 
