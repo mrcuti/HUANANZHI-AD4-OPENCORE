@@ -4,9 +4,8 @@ ALC 897 Audio
 
 Limit ports USB. Two ports: 3.0 and ten ports:2.0 Rear all, and one internal bluetooth FENVI
 
-Safari (Netflix- Amazon Video) and AppleTv
+Safari (Netflix- Amazon Video) and AppleTv. Imessage and facetime e.t.c ok
 
-Imessage and facetime e.t.c ok
 
 ------------------------------------------
 
