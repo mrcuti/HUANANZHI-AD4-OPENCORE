@@ -8,19 +8,25 @@ Safari (Netflix- Amazon Video) and AppleTv. Imessage and facetime e.t.c ok
 
 
 ------------------------------------------
+My spects:
 
 HUANANZHI AD4 V2 Mainboard
 
-64Gb ram REG-ECC
+64Gb ram REG-ECC Hynix x4 moduls
 
 SHAPPIRE VEGA 56 8GB
 
-XEON E52696V3
+Intel Xeon E52696V3
+
+EVGA G3 750W
+
+NVME 970 EVO 250GB
 
 ------------------------------------------
-Include a last Bios moD (only for E52696V3) 80-50-50 Unlock Turbo Boost
+
+Include a last Bios moD (only for E52696V3) 80-50-50 Unlock Turbo Boost:)
 
 ------------------------------------------
-Create your own GenSMBIOS for (Imac-Pro 1,1)
+Create your own GenSMBIOS
 
-Monterey and Ventura
+Monterey and Ventura OS
